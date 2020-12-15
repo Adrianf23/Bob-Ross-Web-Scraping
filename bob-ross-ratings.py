@@ -1,3 +1,5 @@
+# Source code by https://isabella-b.com/blog/scraping-episode-imdb-ratings-tutorial/
+
 # Install requests via the cmd line first: pip3 install requests
 # Install bs4 (beautiful soup 4) via the cmd line first: pip3 install bs4
 # Instal pandas via the cmd line first: pip3 install pandas
