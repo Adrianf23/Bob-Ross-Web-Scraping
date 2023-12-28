@@ -45,6 +45,3 @@ for sn in range(1, 32):
 bob_ross_episodes = pd.DataFrame(bob_ross_episodes, columns = ['season', 'episode_number', 'title', 'airdate', 'rating', 'total_votes', 'desc'])
 
 bob_ross_episodes.to_csv('Bob_Ross_IMDb_Ratings.csv',index=False)
-
-# Tbh the cleaning step will make this turn into a bigger
-# project than it needs to be LOL
